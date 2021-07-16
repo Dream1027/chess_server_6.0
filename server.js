@@ -1,6 +1,6 @@
 const path = require("path");
 
-// const mysql = require("mysql");
+// const  mysql = require("mysql");
 
 const myConnection = require("express-myconnection");
 const routes = require('./routes/myroutes');
